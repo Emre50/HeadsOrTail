@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Josefin+Sans:wght@300&family=Nanum+Myeongjo:wght@700&family=Source+Serif+4:opsz,wght@8..60,300&family=Victor+Mono:wght@200&display=swap');
+
+body{
+    background-color: rgb(42, 109, 92);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    margin: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-shadow: 2.5px 0 black;
+    font-size: 3rem;
+}
+
+img{
+    width: 40%;
+}
+
+#flip-button{
+    margin-top: 70px;
+    font-size: 1.2rem;
+}
